@@ -12,8 +12,8 @@ If you enjoyed exploring this project, I invite you to check out my other projec
 ## All the Project=>  https://react-todo-list-tolga-ozd.vercel.app/
  React's component and state structure is used in React Todo App and it is formatted using React Bootstrap
  - HTML <br>
- -CSS <br>
- -Javascript <br>
- -React <br>
- -Hooks <br>
- -Props <br>
+ - CSS <br>
+ - Javascript <br>
+ - React <br>
+ - Hooks <br>
+ - Props <br>
